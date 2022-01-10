@@ -1,0 +1,6 @@
+C:\C#\Module_5\Module_5\Exercise_1_1\bin\Debug\Exercise_1_1.exe.config
+C:\C#\Module_5\Module_5\Exercise_1_1\bin\Debug\Exercise_1_1.exe
+C:\C#\Module_5\Module_5\Exercise_1_1\bin\Debug\Exercise_1_1.pdb
+C:\C#\Module_5\Module_5\Exercise_1_1\obj\Debug\Exercise_1_1.csproj.CoreCompileInputs.cache
+C:\C#\Module_5\Module_5\Exercise_1_1\obj\Debug\Exercise_1_1.exe
+C:\C#\Module_5\Module_5\Exercise_1_1\obj\Debug\Exercise_1_1.pdb
